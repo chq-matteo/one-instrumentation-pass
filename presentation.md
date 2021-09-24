@@ -96,7 +96,7 @@ Moreover many advanced dynamic analyses (e.g. dynamic taint analysis) have an ov
 </small>
 
 
-<video muted controls>
+<video preload="metadata" muted controls>
     <source src="assets/lq_gdb4x.mp4" type="video/mp4">
 </video>
 
@@ -274,7 +274,7 @@ Many solutions come close:
 
 Qira a bit unreliable
 
-<video muted controls>
+<video preload="metadata" muted controls>
     <source src="assets/lq_qiraghidra.mp4" type="video/mp4">
 </video>
 
@@ -286,7 +286,7 @@ Qira a bit unreliable
 rr frontend, 1 instance for current state, multiple workers to peek into the future and into the past, replay too slow
 </small>
 
-<video muted controls>
+<video preload="metadata" muted controls>
     <source src="assets/lq_rrghidra.mp4" type="video/mp4">
 </video>
 
@@ -308,7 +308,7 @@ Inspired by iDNA, good recording thanks to iDNA's papers, indexing too slow due 
 Tracer inspired by Qira using a reliable DBI framework, good performance for fuzzing cases, very good (subjectively) debugging experience, moderate memory footprint
 </small>
 
-<video muted controls>
+<video preload="metadata" muted controls>
     <source src="assets/lq_latest.mp4" type="video/mp4">
 </video>
 
@@ -619,7 +619,7 @@ Originally I wanted to show this part too, but not enough time
 
 ## Demo time: Dataflow
 
-<video muted controls>
+<video preload="metadata" muted controls>
     <source src="assets/lq_teaser.mp4" type="video/mp4">
 </video>
 
@@ -628,7 +628,7 @@ Originally I wanted to show this part too, but not enough time
 
 ## Demo time: Statistical + differential debugging
 
-<video muted controls>
+<video preload="metadata" muted controls>
     <source src="assets/lq_differential_debugging.mp4" type="video/mp4">
 </video>
 
